@@ -1,0 +1,53 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 831.088 sec <<< FAILURE! - in TestSuite
+TC_DB_07(com.automation.index.PackageIndex)  Time elapsed: 193.252 sec  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:638)
+	at java.util.ArrayList.get(ArrayList.java:414)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:39)
+	at com.sun.proxy.$Proxy9.get(Unknown Source)
+	at com.automation.indexpage.PackageIndexpage.chooseAttchments(PackageIndexpage.java:142)
+	at com.automation.index.PackageIndex.TC_DB_07(PackageIndex.java:1104)
+
+TC_DB_09(com.automation.index.PackageIndex)  Time elapsed: 193.213 sec  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:638)
+	at java.util.ArrayList.get(ArrayList.java:414)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:39)
+	at com.sun.proxy.$Proxy9.get(Unknown Source)
+	at com.automation.indexpage.PackageIndexpage.chooseAttchments(PackageIndexpage.java:142)
+	at com.automation.index.PackageIndex.TC_DB_09(PackageIndex.java:1439)
+
+TC_DB_10(com.automation.index.PackageIndex)  Time elapsed: 198.874 sec  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index: 5, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:638)
+	at java.util.ArrayList.get(ArrayList.java:414)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:39)
+	at com.sun.proxy.$Proxy9.get(Unknown Source)
+	at com.automation.indexpage.PackageIndexpage.warfAttachmentRM(PackageIndexpage.java:603)
+	at com.automation.index.PackageIndex.TC_DB_10(PackageIndex.java:1620)
+
+TC_DB_11(com.automation.index.PackageIndex)  Time elapsed: 192.593 sec  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:638)
+	at java.util.ArrayList.get(ArrayList.java:414)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:39)
+	at com.sun.proxy.$Proxy9.get(Unknown Source)
+	at com.automation.indexpage.PackageIndexpage.chooseAttchments(PackageIndexpage.java:142)
+	at com.automation.index.PackageIndex.TC_DB_11(PackageIndex.java:1782)
+

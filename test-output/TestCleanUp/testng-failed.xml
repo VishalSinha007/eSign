@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [TestCleanUp]" parallel="tests">
+  <parameter name="selenium.port" value="4444"/>
+  <parameter name="selenium.host" value="localhost"/>
+  <parameter name="selenium.browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.automation.utility.CustomReporterListener"/>
+    <listener class-name="com.automation.utility.CustomReporterEmailBuildSummary"/>
+    <listener class-name="com.automation.utility.CustomReporterforEmail"/>
+    <listener class-name="com.automation.utility.CustomReporterBuildSummary"/>
+    <listener class-name="com.automation.utility.CustomReporterTestpassDetails"/>
+    <listener class-name="com.automation.utility.CustomReporterTestFailureDetails"/>
+    <listener class-name="com.automation.utility.CustomReporterTestskipDetails"/>
+    <listener class-name="com.automation.utility.CustomReporterTestDetails"/>
+  </listeners>
+  <test thread-count="1" verbose="0" name="TC_DB_07: Verify resend email notiication on update email address for relationship manager.(failed)" parallel="tests">
+    <classes>
+      <class name="com.automation.index.PackageIndex">
+        <methods>
+          <include name="setUp"/>
+          <include name="TC_DB_07"/>
+          <include name="tearDown"/>
+          <include name="fetchSuiteConfiguration"/>
+        </methods>
+      </class> <!-- com.automation.index.PackageIndex -->
+    </classes>
+  </test> <!-- TC_DB_07: Verify resend email notiication on update email address for relationship manager.(failed) -->
+  <test thread-count="1" verbose="0" name="TC_DB_09: Verify E2E sign workflow for resent package for one signer.(failed)" parallel="tests">
+    <classes>
+      <class name="com.automation.index.PackageIndex">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="TC_DB_09"/>
+          <include name="fetchSuiteConfiguration"/>
+        </methods>
+      </class> <!-- com.automation.index.PackageIndex -->
+    </classes>
+  </test> <!-- TC_DB_09: Verify E2E sign workflow for resent package for one signer.(failed) -->
+  <test thread-count="1" verbose="0" name="TC_DB_10: Verify Draft Package status changed to Sent for three signer.(failed)" parallel="tests">
+    <classes>
+      <class name="com.automation.index.PackageIndex">
+        <methods>
+          <include name="TC_DB_10"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="fetchSuiteConfiguration"/>
+        </methods>
+      </class> <!-- com.automation.index.PackageIndex -->
+    </classes>
+  </test> <!-- TC_DB_10: Verify Draft Package status changed to Sent for three signer.(failed) -->
+  <test thread-count="1" verbose="0" name="TC_DB_11: Verify E2E sign workflow for resent package for three signer.(failed)" parallel="tests">
+    <classes>
+      <class name="com.automation.index.PackageIndex">
+        <methods>
+          <include name="TC_DB_11"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="fetchSuiteConfiguration"/>
+        </methods>
+      </class> <!-- com.automation.index.PackageIndex -->
+    </classes>
+  </test> <!-- TC_DB_11: Verify E2E sign workflow for resent package for three signer.(failed) -->
+</suite> <!-- Failed suite [TestCleanUp] -->

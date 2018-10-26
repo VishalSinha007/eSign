@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="4" ignored="116" total="120" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<strong> <h3 style="color:DarkViolet"> TC_DB_07: Verify resend email notiication on update email address for relationship manager.</h3> </strong>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 1 Enter Username.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Username entered: sy1-dev09-owner@e-signsolutions.com</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 2 Enter Password.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Password entered: N#abe7dd95b55c1d635349395d8d9244</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 3 Click on Login button.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<h3><b style='color:#1466B8'>&nbsp;&nbsp;&nbsp;Verify user has logged in successfuly.</h3></b>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Welcome DEV09 Account</br>]]>
+    </line>
+    <line>
+      <![CDATA[<strong> <h3 style="color:DarkGreen">  &#10004; <i>  SUCCESSFUL </i></h3> </strong> ]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 4 Select workflow from dropdown.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 5 Click on 'Create' Button.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 6 Enter 'Borrower 1:' details to create package.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Internl Reference: Reference_DsWNz</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> First Name: autoFnamegEuOkliFvr</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Last Name: autoLnameeuvYIrxoTD</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Email : auto_MsXkMeOuMmYnqwiuXFVx@mailinator.com</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Mobile Number : +61444444444</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 7 Choose any random WAFR Attachments.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> 1 Attachments going to be select.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <b>Please look to the screenshot - </b>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Failed to capture screenshot: Destination 'E:\Project\eSign\test-output\Screenshot\screenshots' directory cannot be created</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<br><Strong><font color=#FF0000>--Failed</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<a href='screenshots/1016111513659TC_DB_07.png' target='_new'>1016111513659TC_DB_07.png</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br></br><h3>Failure Reason:</h3>]]>
+    </line>
+    <line>
+      <![CDATA[<br></br>java.lang.IndexOutOfBoundsException: Index: 0, Size: 0]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<hr size='15px' noshade color='red'></br>]]>
+    </line>
+    <line>
+      <![CDATA[<strong> <h3 style="color:DarkViolet"> TC_DB_09: Verify E2E sign workflow for resent package for one signer.</h3> </strong>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 1 Enter Username.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Username entered: sy1-dev09-owner@e-signsolutions.com</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 2 Enter Password.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Password entered: N#abe7dd95b55c1d635349395d8d9244</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 3 Click on Login button.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<h3><b style='color:#1466B8'>&nbsp;&nbsp;&nbsp;Verify user has logged in successfuly.</h3></b>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Welcome DEV09 Account</br>]]>
+    </line>
+    <line>
+      <![CDATA[<strong> <h3 style="color:DarkGreen">  &#10004; <i>  SUCCESSFUL </i></h3> </strong> ]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 4 Select workflow from dropdown.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 5 Click on 'Create' Button.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 6 Enter 'Borrower 1:' details to create package.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Internl Reference: Reference_PHnno</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> First Name: autoFnamepfhZJHcFCr</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Last Name: autoLnameqnuKrukQsA</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Email : auto_AwCjlxFHsDIeoyhCnDMW@mailinator.com</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Mobile Number : +61444444444</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 7 Choose any random WAFR Attachments.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> 1 Attachments going to be select.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <b>Please look to the screenshot - </b>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Failed to capture screenshot: Destination 'E:\Project\eSign\test-output\Screenshot\screenshots' directory cannot be created</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<br><Strong><font color=#FF0000>--Failed</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<a href='screenshots/1016111839718TC_DB_09.png' target='_new'>1016111839718TC_DB_09.png</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br></br><h3>Failure Reason:</h3>]]>
+    </line>
+    <line>
+      <![CDATA[<br></br>java.lang.IndexOutOfBoundsException: Index: 0, Size: 0]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<hr size='15px' noshade color='red'></br>]]>
+    </line>
+    <line>
+      <![CDATA[<strong> <h3 style="color:DarkViolet"> TC_DB_10: Verify Draft Package status changed to Sent for three signer.</h3> </strong>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 1 Enter Username.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Username entered: sy1-dev09-owner@e-signsolutions.com</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 2 Enter Password.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Password entered: N#abe7dd95b55c1d635349395d8d9244</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 3 Click on Login button.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<h3><b style='color:#1466B8'>&nbsp;&nbsp;&nbsp;Verify user has logged in successfuly.</h3></b>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Welcome DEV09 Account</br>]]>
+    </line>
+    <line>
+      <![CDATA[<strong> <h3 style="color:DarkGreen">  &#10004; <i>  SUCCESSFUL </i></h3> </strong> ]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 4 Select workflow from dropdown.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 5 Click on 'Create' Button.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 6 Enter 'Borrower 1:' details to create package.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Internl Reference: Reference_pOZpU</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> First Name: autoFnamecGrySqVjwo</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Last Name: autoLnameUekEEwRKDb</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Email : auto_prVsCnajbRqMkABjMNcl@mailinator.com</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Mobile Number : +61444444444</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 7 Choose any random WAFR Attachments.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> 0 Attachments going to be select.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 8 Enter 'Guarantor 1:' details to create package.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Select Gurantor 1 Check box to enter details.</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Guarantor First Name: autoGFnameLfONxPFDSB</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Guarantor Last Name: autoGLnameAtAyFyNfsk</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Guarantor Email : auto_G_pIBxDsLQHuZsHMdbDRoR@mailinator.com</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Guarantor Mobile Number : +61444444444</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 9 Enter 'Relationship Manager:' details to create package.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Select Relationship Manager Check box to enter details.</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Relationship Manager First Name: autoRFnameDiWwIDTwzo</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Relationship Manager Last Name: autoRLnameTkRdizfneW</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Relationship Manager Email : auto_R_dVHNnOlPMqhBYeZkBruC@mailinator.com</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Relationship Manager Mobile Number : +61444444444</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 10 Choose any random WAFR Attachments for Relationship Manager.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <b>Please look to the screenshot - </b>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Failed to capture screenshot: Destination 'E:\Project\eSign\test-output\Screenshot\screenshots' directory cannot be created</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<br><Strong><font color=#FF0000>--Failed</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<a href='screenshots/1016112211375TC_DB_10.png' target='_new'>1016112211375TC_DB_10.png</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br></br><h3>Failure Reason:</h3>]]>
+    </line>
+    <line>
+      <![CDATA[<br></br>java.lang.IndexOutOfBoundsException: Index: 5, Size: 0]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<hr size='15px' noshade color='red'></br>]]>
+    </line>
+    <line>
+      <![CDATA[<strong> <h3 style="color:DarkViolet"> TC_DB_11: Verify E2E sign workflow for resent package for three signer.</h3> </strong>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 1 Enter Username.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Username entered: sy1-dev09-owner@e-signsolutions.com</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 2 Enter Password.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Password entered: N#abe7dd95b55c1d635349395d8d9244</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 3 Click on Login button.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<h3><b style='color:#1466B8'>&nbsp;&nbsp;&nbsp;Verify user has logged in successfuly.</h3></b>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Welcome DEV09 Account</br>]]>
+    </line>
+    <line>
+      <![CDATA[<strong> <h3 style="color:DarkGreen">  &#10004; <i>  SUCCESSFUL </i></h3> </strong> ]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 4 Select workflow from dropdown.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 5 Click on 'Create' Button.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 6 Enter 'Borrower 1:' details to create package.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Internl Reference: Reference_Dbnff</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> First Name: autoFnameZNkdKfmryY</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Last Name: autoLnameUiRJmOBAbf</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Email : auto_rrQpfiPyTsIIEjMThlaW@mailinator.com</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Mobile Number : +61444444444</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><strong>Step 7 Choose any random WAFR Attachments.</strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> 1 Attachments going to be select.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <b>Please look to the screenshot - </b>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Failed to capture screenshot: Destination 'E:\Project\eSign\test-output\Screenshot\screenshots' directory cannot be created</br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<br><Strong><font color=#FF0000>--Failed</font></strong></br>]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<a href='screenshots/1016112536852TC_DB_11.png' target='_new'>1016112536852TC_DB_11.png</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br></br><h3>Failure Reason:</h3>]]>
+    </line>
+    <line>
+      <![CDATA[<br></br>java.lang.IndexOutOfBoundsException: Index: 0, Size: 0]]>
+    </line>
+    <line>
+      <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<hr size='15px' noshade color='red'></br>]]>
+    </line>
+  </reporter-output>
+  <suite name="TestCleanUp" duration-ms="830554" started-at="2018-10-16T05:41:49Z" finished-at="2018-10-16T05:55:39Z">
+    <groups>
+    </groups>
+    <test name="TC_DB_07: Verify resend email notiication on update email address for relationship manager." duration-ms="207530" started-at="2018-10-16T05:41:49Z" finished-at="2018-10-16T05:45:16Z">
+      <class name="com.automation.index.PackageIndex">
+        <test-method status="PASS" signature="fetchSuiteConfiguration(org.testng.ITestContext)[pri:0, instance:com.automation.index.PackageIndex@3fd7a715]" name="fetchSuiteConfiguration" is-config="true" duration-ms="449" started-at="2018-10-16T05:41:49Z" finished-at="2018-10-16T05:41:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4923ab24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchSuiteConfiguration -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.automation.index.PackageIndex@3fd7a715]" name="setUp" is-config="true" duration-ms="10569" started-at="2018-10-16T05:41:49Z" finished-at="2018-10-16T05:42:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.index.PackageIndex.TC_DB_07()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@4923ab24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="TC_DB_07()[pri:0, instance:com.automation.index.PackageIndex@3fd7a715]" name="TC_DB_07" duration-ms="193238" started-at="2018-10-16T05:42:00Z" finished-at="2018-10-16T05:45:13Z">
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index: 0, Size: 0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+at java.util.ArrayList.rangeCheck(ArrayList.java:638)
+at java.util.ArrayList.get(ArrayList.java:414)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:39)
+at com.sun.proxy.$Proxy9.get(Unknown Source)
+at com.automation.indexpage.PackageIndexpage.chooseAttchments(PackageIndexpage.java:142)
+at com.automation.index.PackageIndex.TC_DB_07(PackageIndex.java:1104)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+at java.lang.Thread.run(Thread.java:744)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<strong> <h3 style="color:DarkViolet"> TC_DB_07: Verify resend email notiication on update email address for relationship manager.</h3> </strong>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 1 Enter Username.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Username entered: sy1-dev09-owner@e-signsolutions.com</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 2 Enter Password.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Password entered: N#abe7dd95b55c1d635349395d8d9244</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 3 Click on Login button.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<h3><b style='color:#1466B8'>&nbsp;&nbsp;&nbsp;Verify user has logged in successfuly.</h3></b>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Welcome DEV09 Account</br>]]>
+            </line>
+            <line>
+              <![CDATA[<strong> <h3 style="color:DarkGreen">  &#10004; <i>  SUCCESSFUL </i></h3> </strong> ]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 4 Select workflow from dropdown.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 5 Click on 'Create' Button.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 6 Enter 'Borrower 1:' details to create package.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Internl Reference: Reference_DsWNz</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> First Name: autoFnamegEuOkliFvr</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Last Name: autoLnameeuvYIrxoTD</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Email : auto_MsXkMeOuMmYnqwiuXFVx@mailinator.com</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Mobile Number : +61444444444</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 7 Choose any random WAFR Attachments.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> 1 Attachments going to be select.</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> <b>Please look to the screenshot - </b>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Failed to capture screenshot: Destination 'E:\Project\eSign\test-output\Screenshot\screenshots' directory cannot be created</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<br><Strong><font color=#FF0000>--Failed</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<a href='screenshots/1016111513659TC_DB_07.png' target='_new'>1016111513659TC_DB_07.png</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br></br><h3>Failure Reason:</h3>]]>
+            </line>
+            <line>
+              <![CDATA[<br></br>java.lang.IndexOutOfBoundsException: Index: 0, Size: 0]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<hr size='15px' noshade color='red'></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_DB_07 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.index.PackageIndex@3fd7a715]" name="tearDown" is-config="true" duration-ms="3248" started-at="2018-10-16T05:45:13Z" finished-at="2018-10-16T05:45:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_DB_07 status=FAILURE method=PackageIndex.TC_DB_07()[pri:0, instance:com.automation.index.PackageIndex@3fd7a715] output=<strong> <h3 style="color:DarkViolet"> TC_DB_07: Verify resend email notiication on update email address for relationship manager.</h3> </strong>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.index.PackageIndex -->
+    </test> <!-- TC_DB_07: Verify resend email notiication on update email address for relationship manager. -->
+    <test name="TC_DB_09: Verify E2E sign workflow for resent package for one signer." duration-ms="206015" started-at="2018-10-16T05:45:16Z" finished-at="2018-10-16T05:48:42Z">
+      <class name="com.automation.index.PackageIndex">
+        <test-method status="PASS" signature="fetchSuiteConfiguration(org.testng.ITestContext)[pri:0, instance:com.automation.index.PackageIndex@536aaa8d]" name="fetchSuiteConfiguration" is-config="true" duration-ms="20" started-at="2018-10-16T05:45:16Z" finished-at="2018-10-16T05:45:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@44c8afef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchSuiteConfiguration -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.automation.index.PackageIndex@536aaa8d]" name="setUp" is-config="true" duration-ms="9546" started-at="2018-10-16T05:45:16Z" finished-at="2018-10-16T05:45:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.index.PackageIndex.TC_DB_09()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@44c8afef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="TC_DB_09()[pri:0, instance:com.automation.index.PackageIndex@536aaa8d]" name="TC_DB_09" duration-ms="193214" started-at="2018-10-16T05:45:26Z" finished-at="2018-10-16T05:48:39Z">
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index: 0, Size: 0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+at java.util.ArrayList.rangeCheck(ArrayList.java:638)
+at java.util.ArrayList.get(ArrayList.java:414)
+at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:39)
+at com.sun.proxy.$Proxy9.get(Unknown Source)
+at com.automation.indexpage.PackageIndexpage.chooseAttchments(PackageIndexpage.java:142)
+at com.automation.index.PackageIndex.TC_DB_09(PackageIndex.java:1439)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+at java.lang.Thread.run(Thread.java:744)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<strong> <h3 style="color:DarkViolet"> TC_DB_09: Verify E2E sign workflow for resent package for one signer.</h3> </strong>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 1 Enter Username.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Username entered: sy1-dev09-owner@e-signsolutions.com</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 2 Enter Password.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Password entered: N#abe7dd95b55c1d635349395d8d9244</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 3 Click on Login button.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<h3><b style='color:#1466B8'>&nbsp;&nbsp;&nbsp;Verify user has logged in successfuly.</h3></b>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Welcome DEV09 Account</br>]]>
+            </line>
+            <line>
+              <![CDATA[<strong> <h3 style="color:DarkGreen">  &#10004; <i>  SUCCESSFUL </i></h3> </strong> ]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 4 Select workflow from dropdown.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 5 Click on 'Create' Button.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 6 Enter 'Borrower 1:' details to create package.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Internl Reference: Reference_PHnno</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> First Name: autoFnamepfhZJHcFCr</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Last Name: autoLnameqnuKrukQsA</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Email : auto_AwCjlxFHsDIeoyhCnDMW@mailinator.com</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Mobile Number : +61444444444</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 7 Choose any random WAFR Attachments.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> 1 Attachments going to be select.</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> <b>Please look to the screenshot - </b>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Failed to capture screenshot: Destination 'E:\Project\eSign\test-output\Screenshot\screenshots' directory cannot be created</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<br><Strong><font color=#FF0000>--Failed</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<a href='screenshots/1016111839718TC_DB_09.png' target='_new'>1016111839718TC_DB_09.png</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br></br><h3>Failure Reason:</h3>]]>
+            </line>
+            <line>
+              <![CDATA[<br></br>java.lang.IndexOutOfBoundsException: Index: 0, Size: 0]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<hr size='15px' noshade color='red'></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_DB_09 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.index.PackageIndex@536aaa8d]" name="tearDown" is-config="true" duration-ms="3233" started-at="2018-10-16T05:48:39Z" finished-at="2018-10-16T05:48:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_DB_09 status=FAILURE method=PackageIndex.TC_DB_09()[pri:0, instance:com.automation.index.PackageIndex@536aaa8d] output=<strong> <h3 style="color:DarkViolet"> TC_DB_09: Verify E2E sign workflow for resent package for one signer.</h3> </strong>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.index.PackageIndex -->
+    </test> <!-- TC_DB_09: Verify E2E sign workflow for resent package for one signer. -->
+    <test name="TC_DB_10: Verify Draft Package status changed to Sent for three signer." duration-ms="211635" started-at="2018-10-16T05:48:42Z" finished-at="2018-10-16T05:52:14Z">
+      <class name="com.automation.index.PackageIndex">
+        <test-method status="PASS" signature="fetchSuiteConfiguration(org.testng.ITestContext)[pri:0, instance:com.automation.index.PackageIndex@4493d195]" name="fetchSuiteConfiguration" is-config="true" duration-ms="19" started-at="2018-10-16T05:48:42Z" finished-at="2018-10-16T05:48:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7b69c6ba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchSuiteConfiguration -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.automation.index.PackageIndex@4493d195]" name="setUp" is-config="true" duration-ms="9517" started-at="2018-10-16T05:48:42Z" finished-at="2018-10-16T05:48:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.index.PackageIndex.TC_DB_10()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7b69c6ba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="TC_DB_10()[pri:0, instance:com.automation.index.PackageIndex@4493d195]" name="TC_DB_10" duration-ms="198875" started-at="2018-10-16T05:48:52Z" finished-at="2018-10-16T05:52:11Z">
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index: 5, Size: 0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index: 5, Size: 0
+at java.util.ArrayList.rangeCheck(ArrayList.java:638)
+at java.util.ArrayList.get(ArrayList.java:414)
+at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:39)
+at com.sun.proxy.$Proxy9.get(Unknown Source)
+at com.automation.indexpage.PackageIndexpage.warfAttachmentRM(PackageIndexpage.java:603)
+at com.automation.index.PackageIndex.TC_DB_10(PackageIndex.java:1620)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+at java.lang.Thread.run(Thread.java:744)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<strong> <h3 style="color:DarkViolet"> TC_DB_10: Verify Draft Package status changed to Sent for three signer.</h3> </strong>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 1 Enter Username.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Username entered: sy1-dev09-owner@e-signsolutions.com</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 2 Enter Password.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Password entered: N#abe7dd95b55c1d635349395d8d9244</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 3 Click on Login button.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<h3><b style='color:#1466B8'>&nbsp;&nbsp;&nbsp;Verify user has logged in successfuly.</h3></b>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Welcome DEV09 Account</br>]]>
+            </line>
+            <line>
+              <![CDATA[<strong> <h3 style="color:DarkGreen">  &#10004; <i>  SUCCESSFUL </i></h3> </strong> ]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 4 Select workflow from dropdown.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 5 Click on 'Create' Button.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 6 Enter 'Borrower 1:' details to create package.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Internl Reference: Reference_pOZpU</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> First Name: autoFnamecGrySqVjwo</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Last Name: autoLnameUekEEwRKDb</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Email : auto_prVsCnajbRqMkABjMNcl@mailinator.com</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Mobile Number : +61444444444</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 7 Choose any random WAFR Attachments.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> 0 Attachments going to be select.</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 8 Enter 'Guarantor 1:' details to create package.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Select Gurantor 1 Check box to enter details.</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Guarantor First Name: autoGFnameLfONxPFDSB</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Guarantor Last Name: autoGLnameAtAyFyNfsk</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Guarantor Email : auto_G_pIBxDsLQHuZsHMdbDRoR@mailinator.com</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Guarantor Mobile Number : +61444444444</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 9 Enter 'Relationship Manager:' details to create package.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Select Relationship Manager Check box to enter details.</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Relationship Manager First Name: autoRFnameDiWwIDTwzo</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Relationship Manager Last Name: autoRLnameTkRdizfneW</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Relationship Manager Email : auto_R_dVHNnOlPMqhBYeZkBruC@mailinator.com</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Relationship Manager Mobile Number : +61444444444</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 10 Choose any random WAFR Attachments for Relationship Manager.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> <b>Please look to the screenshot - </b>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Failed to capture screenshot: Destination 'E:\Project\eSign\test-output\Screenshot\screenshots' directory cannot be created</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<br><Strong><font color=#FF0000>--Failed</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<a href='screenshots/1016112211375TC_DB_10.png' target='_new'>1016112211375TC_DB_10.png</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br></br><h3>Failure Reason:</h3>]]>
+            </line>
+            <line>
+              <![CDATA[<br></br>java.lang.IndexOutOfBoundsException: Index: 5, Size: 0]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<hr size='15px' noshade color='red'></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_DB_10 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.index.PackageIndex@4493d195]" name="tearDown" is-config="true" duration-ms="3223" started-at="2018-10-16T05:52:11Z" finished-at="2018-10-16T05:52:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_DB_10 status=FAILURE method=PackageIndex.TC_DB_10()[pri:0, instance:com.automation.index.PackageIndex@4493d195] output=<strong> <h3 style="color:DarkViolet"> TC_DB_10: Verify Draft Package status changed to Sent for three signer.</h3> </strong>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.index.PackageIndex -->
+    </test> <!-- TC_DB_10: Verify Draft Package status changed to Sent for three signer. -->
+    <test name="TC_DB_11: Verify E2E sign workflow for resent package for three signer." duration-ms="205325" started-at="2018-10-16T05:52:14Z" finished-at="2018-10-16T05:55:39Z">
+      <class name="com.automation.index.PackageIndex">
+        <test-method status="PASS" signature="fetchSuiteConfiguration(org.testng.ITestContext)[pri:0, instance:com.automation.index.PackageIndex@458c1321]" name="fetchSuiteConfiguration" is-config="true" duration-ms="17" started-at="2018-10-16T05:52:14Z" finished-at="2018-10-16T05:52:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@46daef40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchSuiteConfiguration -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.automation.index.PackageIndex@458c1321]" name="setUp" is-config="true" duration-ms="9632" started-at="2018-10-16T05:52:14Z" finished-at="2018-10-16T05:52:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.index.PackageIndex.TC_DB_11()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@46daef40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="TC_DB_11()[pri:0, instance:com.automation.index.PackageIndex@458c1321]" name="TC_DB_11" duration-ms="192595" started-at="2018-10-16T05:52:24Z" finished-at="2018-10-16T05:55:36Z">
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index: 0, Size: 0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+at java.util.ArrayList.rangeCheck(ArrayList.java:638)
+at java.util.ArrayList.get(ArrayList.java:414)
+at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:39)
+at com.sun.proxy.$Proxy9.get(Unknown Source)
+at com.automation.indexpage.PackageIndexpage.chooseAttchments(PackageIndexpage.java:142)
+at com.automation.index.PackageIndex.TC_DB_11(PackageIndex.java:1782)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+at java.lang.Thread.run(Thread.java:744)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<strong> <h3 style="color:DarkViolet"> TC_DB_11: Verify E2E sign workflow for resent package for three signer.</h3> </strong>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 1 Enter Username.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Username entered: sy1-dev09-owner@e-signsolutions.com</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 2 Enter Password.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Password entered: N#abe7dd95b55c1d635349395d8d9244</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 3 Click on Login button.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<h3><b style='color:#1466B8'>&nbsp;&nbsp;&nbsp;Verify user has logged in successfuly.</h3></b>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Welcome DEV09 Account</br>]]>
+            </line>
+            <line>
+              <![CDATA[<strong> <h3 style="color:DarkGreen">  &#10004; <i>  SUCCESSFUL </i></h3> </strong> ]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 4 Select workflow from dropdown.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 5 Click on 'Create' Button.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 6 Enter 'Borrower 1:' details to create package.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Internl Reference: Reference_Dbnff</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> First Name: autoFnameZNkdKfmryY</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Last Name: autoLnameUiRJmOBAbf</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Email : auto_rrQpfiPyTsIIEjMThlaW@mailinator.com</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> Mobile Number : +61444444444</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><strong>Step 7 Choose any random WAFR Attachments.</strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;  -> 1 Attachments going to be select.</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> <b>Please look to the screenshot - </b>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;Failed to capture screenshot: Destination 'E:\Project\eSign\test-output\Screenshot\screenshots' directory cannot be created</br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<br><Strong><font color=#FF0000>--Failed</font></strong></br>]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<a href='screenshots/1016112536852TC_DB_11.png' target='_new'>1016112536852TC_DB_11.png</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br></br><h3>Failure Reason:</h3>]]>
+            </line>
+            <line>
+              <![CDATA[<br></br>java.lang.IndexOutOfBoundsException: Index: 0, Size: 0]]>
+            </line>
+            <line>
+              <![CDATA[</br>&nbsp;&nbsp;&nbsp;&nbsp;<hr size='15px' noshade color='red'></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_DB_11 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.index.PackageIndex@458c1321]" name="tearDown" is-config="true" duration-ms="3080" started-at="2018-10-16T05:55:36Z" finished-at="2018-10-16T05:55:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_DB_11 status=FAILURE method=PackageIndex.TC_DB_11()[pri:0, instance:com.automation.index.PackageIndex@458c1321] output=<strong> <h3 style="color:DarkViolet"> TC_DB_11: Verify E2E sign workflow for resent package for three signer.</h3> </strong>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.index.PackageIndex -->
+    </test> <!-- TC_DB_11: Verify E2E sign workflow for resent package for three signer. -->
+  </suite> <!-- TestCleanUp -->
+</testng-results>
